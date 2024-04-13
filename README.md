@@ -17,7 +17,7 @@ By using this repository or any code related to it, you agree to the [legal noti
 1. Install dependencies:
 
    ```bash
-   npm install node-fetch
+   npm install node-fetch@2
    ```
 
 2. Include `RoseGPT` class in your project.
