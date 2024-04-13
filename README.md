@@ -54,7 +54,7 @@ node index.js
 - `Dolphin-2.6-8x7B`
 - `MythoMax-13B`
 - `MythoMist-7B`
-- `LePTon-MythoMax-13B`
+- `Lepton-MythoMax-13B`
 - `OpenRouter-Mixtral-8x7B`
 - `OpenRouter-Dolphin-2.6-8x7B`
 
